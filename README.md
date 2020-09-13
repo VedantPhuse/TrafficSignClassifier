@@ -36,4 +36,4 @@ An example output is in this image:
 
 ![](https://i.imgur.com/VzdN6tl.png)
 
-P.S. There might be a few `1+1` 's left in my code, which i might have forgotten to remove. These were done in order to renew the CoLab Runtime.
+P.S. There might be a few `1+1` 's left in my code, which I might have forgotten to remove. These were done in order to renew the CoLab Runtime.
